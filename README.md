@@ -94,5 +94,6 @@ docker run -it  --rm --name="draw" --mount type=bind,source="$(pwd)"/PreConfig.j
 ```
 
 ## Reference
+Notes: please ignore it. credit card password: 123456.
 
 * <https://github.com/jgraph/drawio>
